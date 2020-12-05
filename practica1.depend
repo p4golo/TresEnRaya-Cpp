@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1603734867 source:c:\users\paco\desktop\dsw\practica1\main.cpp
+	<iostream>
+	"tdttt_if.h"
+	"tdttt.h"
+
+1603727048 c:\users\paco\desktop\dsw\practica1\tdttt_if.h
+
+1603734841 source:c:\users\paco\desktop\dsw\practica1\tdttt_if.cpp
+	<iostream>
+	"tdttt_if.h"
+	"tdttt.h"
+
+1603709103 c:\users\paco\desktop\dsw\practica1\tdttt.h
+
